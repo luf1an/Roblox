@@ -1,8 +1,4 @@
 local Database = {
-    Plus = {
-        447361788,
-    },
-
     Announcement = {
         "No announcement has been made!",
     },
