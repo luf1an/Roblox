@@ -1,22 +1,14 @@
 local Database = {
-    Whitelist = {
-        12345,
-    },
-
-    Blacklist = {
-        12345,
+    Plus = {
+        447361788,
     },
 
     Announcement = {
         "No announcement has been made!",
     },
 
-    Update = {
-        "No update has been made!",
-    },
-
-    Credit = {
-        "0neHeartWein ・ luf1an (Discord)",
+    Credits = {
+        "luf1an [Discord] ・ 0neHeartWein [Roblox] ",
     },
 
     Invite = {
