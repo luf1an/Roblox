@@ -1,6 +1,6 @@
 local Database = {
     Invite = {
-        "xwvVT3a4ft", -- update this shit stupid github
+        "xwvVT3a4ft",
     },
     
     Credits = {
@@ -9,10 +9,6 @@ local Database = {
 
     API = {
          "s1.wayauth.com", -- not mine
-    }
-
-    Shit = {
-        "Poop",
     }
 }
 
