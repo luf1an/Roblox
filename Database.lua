@@ -1,8 +1,4 @@
 local Database = {
-    Announcement = {
-        "No announcement has been made!",
-    }
-    
     Invite = {
         "xwvVT3a4ft",
     },
