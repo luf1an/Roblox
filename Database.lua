@@ -8,7 +8,11 @@ local Database = {
     },
 
     API = {
-         "s1.wayauth.com" -- not mine
+         "s1.wayauth.com", -- not mine
+    }
+
+    Shit = {
+        "Poop",
     }
 }
 
