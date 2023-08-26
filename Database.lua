@@ -1,6 +1,6 @@
 local Database = {
     Invite = {
-        "xwvVT3a4ft",
+        "xwvVT3a4ft", -- update this shit stupid github
     },
     
     Credits = {
