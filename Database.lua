@@ -1,10 +1,14 @@
 local Database = {
-    Credits = {
-        "luf1an [Discord] ・ 0neHeartWein [Roblox] ",
-    },
-
+    Announcement = {
+        "No announcement has been made!",
+    }
+    
     Invite = {
         "xwvVT3a4ft",
+    },
+    
+    Credits = {
+        "luf1an#0000 [Discord] ・ luf1an [GitHub] ",
     },
 
     API = {
